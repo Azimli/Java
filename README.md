@@ -1,2 +1,4 @@
-# Java
-# ![Uploading gcd.jpg…]()
+# GCD
+
+## ƏBOB və ƏKOB u tap üçün yazdığım proqram
+
