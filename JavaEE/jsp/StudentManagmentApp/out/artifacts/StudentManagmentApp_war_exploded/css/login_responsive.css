@@ -1,0 +1,114 @@
+@media only screen and (max-width: 767px){
+   html,body{
+       width: auto;
+   }
+    .login{
+        width: 100%;
+    }
+    .login img{
+        position: relative;
+        right: 10%;
+        width: 20%;
+        height: 20%;
+        margin-top: 3%;
+        margin-bottom: 10%;
+    }
+
+    .login p{
+        position: relative;
+        left: 23%;
+        float: left;
+        font-size: 70%;
+    }
+
+    .login a{
+        position: relative;
+        left: 23%;
+        float: left;
+        font-size: 70%;
+        color: white;
+        margin: 0 5px 0 0;
+    }
+    form{
+        position:relative;
+        right: 10%;
+    }
+    .login_email,.login_sifre{
+        background: #24303c;
+        border: 1px solid #1f53c5;
+        font-size: 115%;
+        font-family: Calibri;
+        color: white;
+        width: 50%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 4px;
+        padding-left: 16px;
+    }
+
+    .login_btn{
+        position: relative;
+        right: 16%;
+        width: 25%;
+        font-size: 10px;
+        top: 20px;
+    }
+}
+@media only screen and (max-width: 300px) {
+    html,body{
+        width: auto;
+    }
+    .login{
+        width: 50%;
+    }
+    .login img{
+        position: relative;
+        right: 5%;
+        width: 20%;
+        height: 20%;
+        margin-top: 3%;
+        margin-bottom: 10%;
+    }
+
+    .login p{
+        position: relative;
+        left: 0;
+        float: left;
+        font-size: 50%;
+    }
+
+    .login a{
+        position: relative;
+        bottom: 10px;
+        left: 100px;
+        float: left;
+        font-size: 50%;
+        color: white;
+        margin: 0 5px 0 0;
+    }
+    form{
+        position:relative;
+        right: 10%;
+    }
+    .login_email,.login_sifre{
+        background: #24303c;
+        border: 1px solid #1f53c5;
+        font-size: 115%;
+        font-family: Calibri;
+        color: white;
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 4px;
+        padding-left: 16px;
+    }
+
+    .login_btn{
+        position: relative;
+        right: 16%;
+        width: 50%;
+        font-size: 10px;
+        top: 5px;
+    }
+
+}

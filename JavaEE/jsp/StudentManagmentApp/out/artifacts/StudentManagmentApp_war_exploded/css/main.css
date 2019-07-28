@@ -1,0 +1,62 @@
+/*Qeydiyyat hissesi*/
+body{
+    margin: 0 auto;
+    background: #24303c;
+}
+.registration{
+    width: 360px;
+    background: #24303c;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 30px;
+    color: white;
+    font-family: Calibri;
+    border-radius: 4px;
+}
+
+.registration h1{
+    margin: 0;
+    font-size: 22px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.ad,.soyad,.atasinin_adi,.email,.telefon,.sifre,.sifre_2{
+    background: #24303c;
+    border: 1px solid #1f53c5;
+    font-size: 18px;
+    font-family: Calibri;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+}
+
+.sekil{
+    margin: 10px 0 20px 0;
+}
+
+.registration p,a{
+    float: left;
+    font-size: 18px;
+    margin: 0 5px 0 0;
+}
+
+.registration a{
+    font-size: 18px;
+    color: white;
+}
+
+.register_btn{
+    width: 100%;
+    margin: 16px 0px;
+    background: #1f53c5;
+    border: 0;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+}
+
+/* Login hissesi */
