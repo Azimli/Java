@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="gcd">
+    <output-path>$PROJECT_DIR$/out/artifacts/gcd</output-path>
+    <root id="root">
+      <element id="archive" name="gcd.jar">
+        <element id="module-output" name="gcd" />
+      </element>
+    </root>
+  </artifact>
+</component>
