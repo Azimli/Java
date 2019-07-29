@@ -1,0 +1,48 @@
+27-Jul-2019 19:34:53.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.22
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 4 2019 14:20:06 UTC
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.22.0
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.5
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22
+27-Jul-2019 19:34:53.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22
+27-Jul-2019 19:34:53.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/conf/logging.properties
+27-Jul-2019 19:34:53.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Jul-2019 19:34:53.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Jul-2019 19:34:53.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Jul-2019 19:34:53.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+27-Jul-2019 19:34:53.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Jul-2019 19:34:53.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22
+27-Jul-2019 19:34:53.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22
+27-Jul-2019 19:34:53.573 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/temp
+27-Jul-2019 19:34:53.573 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/imac27inch/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+27-Jul-2019 19:34:54.542 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Jul-2019 19:34:54.602 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Jul-2019 19:34:54.604 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1,625] milliseconds
+27-Jul-2019 19:34:54.717 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Jul-2019 19:34:54.717 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.22]
+27-Jul-2019 19:34:54.740 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/docs]
+27-Jul-2019 19:34:55.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/docs] has finished in [923] ms
+27-Jul-2019 19:34:55.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/manager]
+27-Jul-2019 19:34:55.858 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/manager] has finished in [195] ms
+27-Jul-2019 19:34:55.859 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/examples]
+27-Jul-2019 19:34:56.339 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/examples] has finished in [480] ms
+27-Jul-2019 19:34:56.339 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/ROOT]
+27-Jul-2019 19:34:56.354 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/ROOT] has finished in [15] ms
+27-Jul-2019 19:34:56.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/host-manager]
+27-Jul-2019 19:34:56.371 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/imac27inch/Desktop/Shakir/is/Java/apache-tomcat-9.0.22/webapps/host-manager] has finished in [16] ms
+27-Jul-2019 19:34:56.373 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Jul-2019 19:34:56.381 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+27-Jul-2019 19:34:56.387 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1,782] milliseconds
+27-Jul-2019 19:36:10.696 WARNING [main] org.apache.catalina.core.StandardServer.await Invalid shutdown command [] received
+27-Jul-2019 19:37:44.998 WARNING [main] org.apache.catalina.core.StandardServer.await Invalid shutdown command [] received
+27-Jul-2019 19:51:50.663 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Jul-2019 19:51:50.685 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+27-Jul-2019 19:51:50.692 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Jul-2019 19:51:50.711 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Jul-2019 19:51:50.714 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+27-Jul-2019 19:51:50.717 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Jul-2019 19:51:50.717 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
